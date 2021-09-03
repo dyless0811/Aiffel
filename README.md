@@ -1,10 +1,9 @@
 # Aiffel
-<img width="1310" alt="AIFFEL" src="https://user-images.githubusercontent.com/86637300/132039088-dc365ec5-475d-4c4f-94f5-29d81ead899d.png">
+![banner](https://user-images.githubusercontent.com/86637300/132039711-1b851566-d884-40b3-b5d0-9c21e730123f.png)
 
 ## What is this?
 * 모두의 연구소에서 주관하는 Aiffel에서 AI를 공부하고 배운 내용을 정리해서 저장하는 곳입니다.  
-* 2021/06/24 ~ 2021/12/16
-* https://aiffel.io/
+* 기간: 2021/06/24 ~ 2021/12/16
 
 ---
 ### Fundamental
@@ -62,4 +61,4 @@
 ---
 ### Hackathon
 1. Recruit Restaurant Visitor Forecasting  
-  * 일본 식당 방문자 수 예측
+  일본 식당 방문자 수 예측
