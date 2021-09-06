@@ -39,6 +39,7 @@
 - Fundamental 29: 파이썬으로 데이터 전처리 웹 만들기  
 - Fundamental 30: 맵리듀스로 그리는 빅데이터 지도  
 - Fundamental 31: 빅데이터 생태계  
+- Fundamental 32: 정보이론 톺아보기
 
 ---
 ### Exploration
