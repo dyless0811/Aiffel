@@ -26,6 +26,8 @@
 - Exploration 13: 이미지 생성하기 CIFAR10  
 - Exploration 14: 주식 가격 예측하기  
 - Exploration 15: 트랜스포머로 만드는 대화형 챗봇  
+- Exploration 16: 흐린 사진을 선명하게
+- Exploration 17: 인간보다 퀴즈를 잘푸는 인공지능
 
 ---
 ### Fundamental
