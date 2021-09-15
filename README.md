@@ -6,7 +6,7 @@
 * 기간: 2021/06/24 ~ 2021/12/16
 ---
 ### Hackathon
-- 1st: [일본 식당 방문자 수 예측](https://github.com/ho323/Aiffel/blob/main/Hackathon/1st/1st_Hackathon)Recruit_Restaurant_Visitor_Forecasting.ipynb)  
+- 1st: 일본 식당 방문자 수 예측  
 - 2nd: 주가 예측 인공지능 베이스라인  
 - 3rd: 강화학습을 이용한 주가 예측 인공지능  
 ---
