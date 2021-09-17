@@ -30,6 +30,8 @@
 - Exploration 15: 트랜스포머로 만드는 대화형 챗봇  
 - Exploration 16: 흐린 사진을 선명하게
 - Exploration 17: 인간보다 퀴즈를 잘푸는 인공지능
+- Exploration 18: 문자를 읽을 수 있는 딥러닝
+- Exploration 19: 난 스케치를 할 테니 너는 채색을 하거라
 
 ---
 ### Fundamental
