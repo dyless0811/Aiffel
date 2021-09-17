@@ -1,10 +1,10 @@
 # Aiffel
 ![banner](https://user-images.githubusercontent.com/86637300/132039711-1b851566-d884-40b3-b5d0-9c21e730123f.png)
 
-## What is this?
+# What is this?
 * 모두의 연구소에서 주관하는 Aiffel에서 AI를 공부하고 배운 내용을 정리해서 저장하는 곳입니다.  
 * 기간: 2021/06/24 ~ 2021/12/16
-* Fundamental 32개, Exploration 19개, GoingDeeper(CV) 8개, Hackathon 3개로 이루어져 있습니다.
+* Fundamental 32개, Exploration 19개, GoingDeeper(CV) 8개, Hackathon 3개
 
 
 ---
