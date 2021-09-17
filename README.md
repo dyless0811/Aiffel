@@ -4,34 +4,8 @@
 ## What is this?
 * 모두의 연구소에서 주관하는 Aiffel에서 AI를 공부하고 배운 내용을 정리해서 저장하는 곳입니다.  
 * 기간: 2021/06/24 ~ 2021/12/16
+* Fundamental 32개, Exploration 19개, GoingDeeper(CV) 8개, Hackathon 3개로 이루어져 있습니다.
 
----
-### Hackathon
-- 1st: 일본 식당 방문자 수 예측  
-- 2nd: 주가 예측 인공지능 베이스라인  
-- 3rd: 강화학습을 이용한 주가 예측 인공지능  
-
----
-### Exploration
-- Exploration 1: 인공지능과 가위바위보 하기  
-- Exploration 2: Iris의 세 가지 품종, 분류해볼 수 있겠어요?  
-- Exploration 3: 카메라 스티커앱 만들기 첫걸음  
-- Exploration 4: 나만의 작곡가 만들기  
-- Exploration 5: 나랑 닮은 연예인은 누구?  
-- Exploration 6: 나의 첫 번째 캐글 경진대회, 무작정 따라해보기  
-- Exploration 7: 영화리뷰 텍스트 감성분석하기  
-- Exploration 8: 인물사진 만들기  
-- Exploration 9: 영화 추천 시스템  
-- Exploration 10: 뉴스 요약봇 만들기  
-- Exploration 11: 폐렴아 기다려라!  
-- Exploration 12: 다음에 볼 영화 예측하기  
-- Exploration 13: 이미지 생성하기 CIFAR10  
-- Exploration 14: 주식 가격 예측하기  
-- Exploration 15: 트랜스포머로 만드는 대화형 챗봇  
-- Exploration 16: 흐린 사진을 선명하게
-- Exploration 17: 인간보다 퀴즈를 잘푸는 인공지능
-- Exploration 18: 문자를 읽을 수 있는 딥러닝
-- Exploration 19: 난 스케치를 할 테니 너는 채색을 하거라
 
 ---
 ### Fundamental
@@ -68,3 +42,35 @@
 - Fundamental 30: 맵리듀스로 그리는 빅데이터 지도  
 - Fundamental 31: 빅데이터 생태계  
 - Fundamental 32: 정보이론 톺아보기
+
+---
+### Exploration
+- Exploration 1: 인공지능과 가위바위보 하기  
+- Exploration 2: Iris의 세 가지 품종, 분류해볼 수 있겠어요?  
+- Exploration 3: 카메라 스티커앱 만들기 첫걸음  
+- Exploration 4: 나만의 작곡가 만들기  
+- Exploration 5: 나랑 닮은 연예인은 누구?  
+- Exploration 6: 나의 첫 번째 캐글 경진대회, 무작정 따라해보기  
+- Exploration 7: 영화리뷰 텍스트 감성분석하기  
+- Exploration 8: 인물사진 만들기  
+- Exploration 9: 영화 추천 시스템  
+- Exploration 10: 뉴스 요약봇 만들기  
+- Exploration 11: 폐렴아 기다려라!  
+- Exploration 12: 다음에 볼 영화 예측하기  
+- Exploration 13: 이미지 생성하기 CIFAR10  
+- Exploration 14: 주식 가격 예측하기  
+- Exploration 15: 트랜스포머로 만드는 대화형 챗봇  
+- Exploration 16: 흐린 사진을 선명하게
+- Exploration 17: 인간보다 퀴즈를 잘푸는 인공지능
+- Exploration 18: 문자를 읽을 수 있는 딥러닝
+- Exploration 19: 난 스케치를 할 테니 너는 채색을 하거라
+
+---
+### GoingDeeper(CV)
+- GoingDeeper 1: 
+
+---
+### Hackathon
+- 1st: 일본 식당 방문자 수 예측  
+- 2nd: 주가 예측 인공지능 베이스라인  
+- 3rd: 강화학습을 이용한 주가 예측 인공지능  
