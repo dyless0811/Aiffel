@@ -67,7 +67,7 @@
 
 ---
 ### GoingDeeper(CV)
-- GoingDeeper 1: 
+- 
 
 ---
 ### Hackathon
