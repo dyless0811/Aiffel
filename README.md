@@ -67,7 +67,7 @@
 
 ---
 ### GoingDeeper(CV)
-- 
+- GoingDeeper1: 백본 네트워크 구조 상세분석
 
 ---
 ### Hackathon
