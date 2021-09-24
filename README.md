@@ -68,6 +68,7 @@
 ---
 ### GoingDeeper(CV)
 - GoingDeeper1: 백본 네트워크 구조 상세분석
+- GoingDeeper2: 없다면 어떻게 될까? (ResNet Ablation Study)
 
 ---
 ### Hackathon
