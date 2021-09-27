@@ -4,7 +4,7 @@
 # What is this?
 * 모두의 연구소에서 주관하는 Aiffel에서 AI를 공부하고 배운 내용을 정리해서 저장하는 곳입니다.  
 * 기간: 2021/06/24 ~ 2021/12/16
-* Fundamental 32개, Exploration 19개, GoingDeeper(CV) 8개, Hackathon 3개
+* Fundamental 32개, Exploration 19개, GoingDeeper(CV) 16개, Hackathon 3개
 
 
 ---
@@ -69,6 +69,7 @@
 ### GoingDeeper(CV)
 - GoingDeeper1: 백본 네트워크 구조 상세분석
 - GoingDeeper2: 없다면 어떻게 될까? (ResNet Ablation Study)
+- GoingDeeper3: 잘 만든 Augmentation, 이미지 100장 안 부럽다
 
 ---
 ### Hackathon
