@@ -71,6 +71,7 @@
 - GoingDeeper2: 없다면 어떻게 될까? (ResNet Ablation Study)
 - GoingDeeper3: 잘 만든 Augmentation, 이미지 100장 안 부럽다
 - GoingDeeper4: 이미지 어디까지 우려볼까?
+- GoingDeeper5: 너의 속이 궁금해 - Class Activation Map 살펴보기
 
 ---
 ### Hackathon
