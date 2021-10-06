@@ -72,7 +72,7 @@
 - GoingDeeper3: 잘 만든 Augmentation, 이미지 100장 안 부럽다
 - GoingDeeper4: 이미지 어디까지 우려볼까?
 - GoingDeeper5: 너의 속이 궁금해 - Class Activation Map 살펴보기
-
+- GoingDeeper6: 나를 찾아줘 - Class Activation Map 만들기
 ---
 ### Hackathon
 - 1st: 일본 식당 방문자 수 예측  
