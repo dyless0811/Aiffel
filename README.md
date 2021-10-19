@@ -75,6 +75,8 @@
 6. 나를 찾아줘 - Class Activation Map 만들기
 7. Object Detection
 8. GO/STOP! - Object Detection 시스템 만들기
+9. 물체를 분리하자! - 세그멘테이션 살펴보기
+10. 도로 영역을 찾자! - 세그멘테이션 모델 만들기
 
 ---
 ### Hackathon
